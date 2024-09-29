@@ -14,7 +14,7 @@ public class condicionalRepeticao {
 			
 		} while (conta < 10);
 		
-		int contagem = 0;
+		
 		for (int i=0; i < 10; i++) {
 			System.out.println("For " + i);
 		}
